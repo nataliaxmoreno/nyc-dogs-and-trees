@@ -9,4 +9,4 @@ From a scientific standpoint, it's worth noting that dog urine has an acidic nat
 
 As New York City continues to thrive with a diverse and growing canine population, it is essential to investigate whether this surge in four-legged companionship has any discernible impact on the overall health and sustainability of our urban trees. Through the interactive visualizations presented in tableauI meticulously gathered and analyzed data from various sources to explore the potential relationship between these two seemingly unrelated variables.
 
-You can find the full tableau visalization board [here!](https://public.tableau.com/app/profile/natalia.moreno.data/viz/nyctreesanddogs/TreesvsDogs).
+You can find the full tableau visalization board [here!](https://public.tableau.com/app/profile/natalia.moreno.data/viz/nyctreesanddogs/TreesvsDogs)
